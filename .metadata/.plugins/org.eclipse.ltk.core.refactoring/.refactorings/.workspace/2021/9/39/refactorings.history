@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;sampleapp/target/classes/META-INF/maven/com.cap.demo/sampleapp/pom.properties&apos;" deleteContents="false" description="Delete resource &apos;sampleapp/target/classes/META-INF/maven/com.cap.demo/sampleapp/pom.properties&apos;" element1="/sampleapp/target/classes/META-INF/maven/com.cap.demo/sampleapp/pom.properties" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1632115841721"/>
+</session>
